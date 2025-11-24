@@ -1,4 +1,3 @@
-pip indtaal PyPDF2 python-docx
 import os
 import tempfile
 
